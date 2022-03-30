@@ -17,6 +17,10 @@ go build
 
 ```sh
 go run go-server
+Server starts in port 8080
+localhost:8080 - index page
+localhost:8080/hello - hello page
+localhost:8080/form.html - form page
 ```
 
 ## Author
