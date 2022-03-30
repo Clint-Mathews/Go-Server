@@ -10,7 +10,7 @@
 ## Install
 
 ```sh
-go build, go run go-server
+go build
 ```
 
 ## Usage
